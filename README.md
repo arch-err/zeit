@@ -5,10 +5,15 @@
 ![Styled with plain ol' CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vanilla JS, no frameworks plz](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+·
+
+![Golang FTW](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 
 <img src="https://raw.githubusercontent.com/arch-err/zeit/refs/heads/main/src/app/favicon.ico" alt="Zeit Timer Logo" width="200"/>
 
-I just want a decent timer/stopwatch that doesn't look like shit. This is it.
+I just want a decent timer/stopwatch that doesn't look like shit, and that's got all of the features I want. That's all this is.
 
 Zeit Timer, Just a Simple Timer
 
