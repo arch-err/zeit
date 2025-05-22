@@ -1,1 +1,17 @@
-# zeit
+# 󰔛  Zeit - Just a Simple Timer
+<div align="center">
+
+[![HTML... Duh...](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.prisma.io)
+[![Styled with plain ol' CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://nextjs.org)
+[![Vanilla JS, no frameworks plz](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://tailwindcss.com)
+[![Obviously developed in NeoVim BTW](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)]
+
+<img src="https://raw.githubusercontent.com/arch-err/zeit/refs/heads/main/src/app/favicon.ico" alt="Zeit Timer Logo" width="200"/>
+
+I just want a decent timer/stopwatch that doesn't look like shit. This is it.
+
+Zeit Timer, Just a Simple Timer
+
+[Demo](https://arch-err.github.io/zeit/) · [Report Bug](https://github.com/arch-err/zeit/issues) · [Request Feature](https://github.com/arch-err/zeit/issues)
+
+</div>
