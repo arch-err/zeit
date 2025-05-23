@@ -18,5 +18,19 @@ Zeit Timer, Just a Simple Timer
 <br>
 
 
-[Demo](https://arch-err.github.io/zeit/) · [Report Bug](https://github.com/arch-err/zeit/issues) · [Request Feature](https://github.com/arch-err/zeit/issues)
+[Demo](https://arch-err.github.io/zeit/app/) · [Report Bugs](https://github.com/arch-err/zeit/issues) · [Request Features](https://github.com/arch-err/zeit/issues)
 </div>
+
+---
+
+# Description
+
+# Installation
+
+# Usage
+
+# Contribution
+
+# License
+
+# Why I ***actually*** did this
