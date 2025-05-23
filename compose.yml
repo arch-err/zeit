@@ -1,0 +1,8 @@
+services:
+  zeit:
+    # build:
+    #   context: .
+    #   dockerfile: Dockerfile
+    image: ghcr.io/arch-err/zeit:latest
+    ports:
+      - "8080:8080"
