@@ -11,8 +11,12 @@
 <div width=700>
 I just want a decent timer/stopwatch that doesn't look like shit, and that's got all of the features I want. That's all this is.
 </div>
+·
 
 Zeit Timer, Just a Simple Timer
+<br>
+<br>
+
 
 [Demo](https://arch-err.github.io/zeit/) · [Report Bug](https://github.com/arch-err/zeit/issues) · [Request Feature](https://github.com/arch-err/zeit/issues)
 </div>
