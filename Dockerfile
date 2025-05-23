@@ -21,7 +21,7 @@ FROM scratch
 LABEL \
 	org.opencontainers.image.source https://github.com/arch-err/zeit \
 	org.opencontainers.image.title="Zeit - Just a Simple Timer" \
-	org.opencontainers.image.description="I just want a decent timer/stopwatch that doesn't look like shit. This is it." \
+	org.opencontainers.image.description="I just want a decent timer/stopwatch that doesn't look like shit, and that's got all of the features I want. That's all this is." \
 	org.opencontainers.image.version="${VERSION}" \
 	org.opencontainers.image.authors="arch-err archer@jesber.xyz"
 

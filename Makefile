@@ -1,5 +1,5 @@
 #!CMD: make container-build && make container-run
-IMAGE_NAME := ghcr.io/arch-err/zeit/zeit
+IMAGE_NAME := ghcr.io/arch-err/zeit
 TAG := dev
 
 container-build:
