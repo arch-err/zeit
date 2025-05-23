@@ -1,9 +1,14 @@
 #!CMD: make container-build && make container-run
+#!CMD: make TAG=test container-build
 IMAGE_NAME := ghcr.io/arch-err/zeit
-TAG := dev
+TAGDEFAULT := dev
+TAG := $(TAGDEFAULT)
 
 container-build:
 	docker build -t $(IMAGE_NAME):$(TAG) . --label "org.opencontainers.image.version=$(TAG)" --label "org.opencontainers.image.revision=$$(git rev-parse --short HEAD)"
+ifneq ("$(TAG)","$(TAGDEFAULT)")
+	@sed -i "s/image: \(.*\):.*/image: \1:$(TAG)/" compose.yml
+endif
 
 container-push:
 	docker push $(IMAGE_NAME):$(TAG)

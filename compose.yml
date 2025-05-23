@@ -3,6 +3,6 @@ services:
     # build:
     #   context: .
     #   dockerfile: Dockerfile
-    image: ghcr.io/arch-err/zeit:latest
+    image: ghcr.io/arch-err/zeit:0.1.0
     ports:
       - "8080:8080"
